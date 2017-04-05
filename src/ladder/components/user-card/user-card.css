@@ -1,0 +1,13 @@
+.person-wrapper {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px 0px 10px 0px;
+}
+
+.person-wrapper p {
+  font-size: 14px;
+  font-weight: 500;
+  margin: 3px 0px 3px 0px;
+}
