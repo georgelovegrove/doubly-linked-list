@@ -1,4 +1,4 @@
-const assert = require('chai').assert
+import { assert } from 'chai';
 
 import { Node, DoublyLinkedList } from './doubly-linked-list-service';
 

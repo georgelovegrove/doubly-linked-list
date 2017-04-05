@@ -34,7 +34,7 @@ class UserLadder extends Component {
     const peopleList = this.formatLinkedList(doublyLinkedList);
 
     return (
-      <div>
+      <div className="user-ladder-wrapper">
         { peopleList.map(person => {
           return (
             <UserCard key={person.id} person={person} />
